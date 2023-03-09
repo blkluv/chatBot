@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #343541;
+  background: #000;
   scroll-behavior: smooth;
   /* overflow: hidden; */
 }
@@ -16,7 +16,7 @@ body {
 #app {
   width: 100%;
   height: 100vh;
-  background: #343541;
+  background: #000;
 
   display: flex;
   flex-direction: column;
@@ -81,7 +81,7 @@ body {
 }
 
 .ai .profile {
-  background: #10a37f;
+  background: #3F7B98;
 }
 
 .profile img {
@@ -161,7 +161,7 @@ form img {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #343541;
+  background: #000;
 }
 
 /* Handle */
